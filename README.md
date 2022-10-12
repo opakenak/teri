@@ -1,5 +1,5 @@
 Tembak paket teri
 
-git clone https://github.com/opakenak/teri
-cd teri
-php teri.php
+git clone https://github.com/opakenak/teri </br>
+cd teri </br>
+php teri.php </br>
