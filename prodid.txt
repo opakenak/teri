@@ -1,0 +1,781 @@
+22607 ==>  VIU 1 Hari  ==> 1500
+22772 ==>  VIU 2 Hari  ==> 1500
+22776 ==>  Gemezz Berhadiah  ==> 2000
+22616 ==>  Facebook 1 Hari  ==> 2500
+25226 ==>  (NEW) 3GB 1 Hari  ==> 3000
+25227 ==>  (NEW) 3GB 1 Hari  ==> 3000
+25228 ==>  (NEW) 3GB 1 Hari  ==> 3000
+25537 ==>  (NEW) 1.5GB 1 Hari  ==> 3000
+25538 ==>  (NEW) 1.5GB 1 Hari  ==> 3000
+25539 ==>  (NEW) 1.5GB 1 Hari  ==> 3000
+25540 ==>  (NEW) 1.5GB 1 Hari  ==> 3000
+23574 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23578 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23849 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23850 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23852 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23860 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23862 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23865 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23874 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23875 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23878 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+23881 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24037 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24038 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24157 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24187 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24555 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24556 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24557 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+24558 ==>  (NEW) 1.5GB 1 Hari  ==> 3500
+25145 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25146 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25147 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25163 ==>  (NEW) 2GB 1 Hari  ==> 4000
+22608 ==>  VIU 3 Hari  ==> 4000
+22773 ==>  VIU 4 Hari  ==> 4000
+23816 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23817 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23818 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23820 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23863 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23864 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23884 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+23886 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24040 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24041 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24192 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24400 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24401 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24433 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24434 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24619 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+24620 ==>  (NEW) 1.5GB 1 Hari  ==> 4000
+25332 ==>  Happy 2GB 1 Hari  ==> 4000
+25343 ==>  (NEW) 2.5GB 1 Hari  ==> 4000
+25345 ==>  (NEW) 2.5GB 1 Hari  ==> 4000
+25347 ==>  (NEW) 2.5GB 1 Hari  ==> 4000
+25349 ==>  (NEW) 2.5GB 1 Hari  ==> 4000
+25355 ==>  (NEW) 2.5GB 1 Hari  ==> 4000
+25357 ==>  (NEW) 2.5GB 1 Hari  ==> 4000
+25453 ==>  (NEW) 3GB 1 Hari  ==> 4000
+25454 ==>  (NEW) 3GB 1 Hari  ==> 4000
+25455 ==>  (NEW) 3GB 1 Hari  ==> 4000
+25507 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25508 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25509 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25510 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25511 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25512 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25541 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25542 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25543 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25544 ==>  (NEW) 2GB 1 Hari  ==> 4000
+25148 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25164 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25165 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25166 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25167 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25230 ==>  (NEW) 7GB 1 Hari  ==> 5000
+25232 ==>  (NEW) 7GB 1 Hari  ==> 5000
+25233 ==>  (NEW) 7GB 1 Hari  ==> 5000
+25234 ==>  (NEW) 4GB 3 Hari  ==> 5000
+25235 ==>  (NEW) 4GB 3 Hari  ==> 5000
+25236 ==>  (NEW) 4GB 3 Hari  ==> 5000
+25270 ==>  Test 5GB 5rb  ==> 5000
+22642 ==>  6GB 1 Hari (Baru).  ==> 5000
+22664 ==>  5GB 1 Hari (Khusus Pelajar)  ==> 5000
+23323 ==>  5GB 24 Jam 1 Hari  ==> 5000
+24042 ==>  (NEW) 1.5GB 1 Hari  ==> 5000
+24043 ==>  (NEW) 1.5GB 1 Hari  ==> 5000
+24165 ==>  18GB 7 Hari  ==> 5000
+25299 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25300 ==>  (NEW) 2GB 1 Hari  ==> 5000
+25413 ==>  (NEW) 3GB 1 Hari  ==> 5000
+25414 ==>  (NEW) 3GB 1 Hari  ==> 5000
+25415 ==>  (NEW) 1GB 30 Hari  ==> 5000
+22613 ==>  VIU 7 Hari  ==> 7000
+22774 ==>  VIU 8 Hari  ==> 7000
+23643 ==>  (NEW) 3.5GB 3 Hari  ==> 8000
+23647 ==>  (NEW) 3.5GB 3 Hari  ==> 8000
+24158 ==>  (NEW) 3.5GB 3 Hari  ==> 8000
+23889 ==>  (NEW) 4GB 3 Hari  ==> 8500
+23890 ==>  (NEW) 4GB 3 Hari  ==> 8500
+23892 ==>  (NEW) 4GB 3 Hari  ==> 8500
+23896 ==>  (NEW) 4GB 3 Hari  ==> 8500
+23897 ==>  (NEW) 4GB 3 Hari  ==> 8500
+23900 ==>  (NEW) 4GB 3 Hari  ==> 8500
+22709 ==>  3GB 3hr 9rb (Lebih Murah)  ==> 9000
+22857 ==>  Baru! 2GB 15hr 9rb  ==> 9000
+23825 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23826 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23827 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23829 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23894 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23895 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23906 ==>  (NEW) 4GB 3 Hari  ==> 9000
+23908 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24003 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24004 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24006 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24045 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24046 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24048 ==>  (NEW) 3.5GB 3 Hari  ==> 9000
+24049 ==>  (NEW) 3.5GB 3 Hari  ==> 9000
+24186 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24193 ==>  (NEW) 3.5GB 3 Hari  ==> 9000
+24369 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24402 ==>  (NEW) 3.5GB 3 Hari  ==> 9000
+24403 ==>  (NEW) 3.5GB 3 Hari  ==> 9000
+24435 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24436 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24559 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24560 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24561 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24562 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24621 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24622 ==>  (NEW) 4GB 3 Hari  ==> 9000
+24876 ==>  (NEW) 4GB 3 Hari  ==> 10000
+24881 ==>  (NEW) 4GB 3 Hari  ==> 10000
+24882 ==>  (NEW) 2GB 30 Hari  ==> 10000
+24911 ==>  (NEW) 4GB 3 Hari  ==> 10000
+24938 ==>  (NEW) 4GB 3 Hari  ==> 10000
+24941 ==>  (NEW) 4GB 3 Hari  ==> 10000
+24942 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25149 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25168 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25169 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25170 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25171 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25237 ==>  (NEW) 8GB 3 Hari  ==> 10000
+25238 ==>  (NEW) 8GB 3 Hari  ==> 10000
+25239 ==>  (NEW) 8GB 3 Hari  ==> 10000
+25240 ==>  (NEW) 15GB 7 Hari  ==> 10000
+25241 ==>  (NEW) 15GB 7 Hari  ==> 10000
+25242 ==>  (NEW) 15GB 7 Hari  ==> 10000
+25271 ==>  Test 3GB 10rb  ==> 10000
+23102 ==>  5GB + 1GB + VIU Premium  ==> 10000
+23324 ==>  12GB 24 Jam 7 Hari  ==> 10000
+23583 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23585 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23586 ==>  (NEW) 3GB 3 Hari  ==> 10000
+23597 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23600 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23821 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23822 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23823 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23912 ==>  (NEW) 4GB 3 Hari  ==> 10000
+23913 ==>  (NEW) 4GB 3 Hari  ==> 10000
+24050 ==>  (NEW) 3.5GB 3 Hari  ==> 10000
+24051 ==>  (NEW) 3.5GB 3 Hari  ==> 10000
+24507 ==>  3GB 3 Hari (Promo)  ==> 10000
+25333 ==>  Happy 7GB 1 Hari  ==> 10000
+25359 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25360 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25362 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25363 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25365 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25367 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25368 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25370 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25372 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25375 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25398 ==>  (NEW) 2GB 30 Hari  ==> 10000
+25416 ==>  (NEW) 4GB 3 Hari  ==> 10000
+25417 ==>  (NEW) 4GB 5 Hari  ==> 10000
+25418 ==>  (NEW) 3GB 30 Hari  ==> 10000
+25456 ==>  (NEW) 6GB 3 Hari  ==> 10000
+25457 ==>  (NEW) 6GB 3 Hari  ==> 10000
+25458 ==>  (NEW) 6GB 3 Hari  ==> 10000
+25513 ==>  (NEW) 4GB 2 Hari  ==> 10000
+25514 ==>  (NEW) 5GB 2 Hari  ==> 10000
+25515 ==>  (NEW) 5GB 2 Hari  ==> 10000
+25545 ==>  (NEW) 6GB 5 Hari  ==> 10000
+25546 ==>  (NEW) 6GB 5 Hari  ==> 10000
+25549 ==>  (NEW) 6GB 5 Hari  ==> 10000
+23950 ==>  (NEW) 6GB 5 Hari  ==> 12000
+23951 ==>  (NEW) 6GB 5 Hari  ==> 12000
+23952 ==>  (NEW) 6GB 5 Hari  ==> 12000
+23960 ==>  (NEW) 6GB 5 Hari  ==> 12000
+24563 ==>  (NEW) 5GB 7 Hari  ==> 12000
+24566 ==>  (NEW) 6GB 5 Hari  ==> 12000
+24567 ==>  (NEW) 6GB 5 Hari  ==> 12000
+23940 ==>  (NEW) 6GB 5 Hari  ==> 12500
+23941 ==>  (NEW) 6GB 5 Hari  ==> 12500
+23942 ==>  (NEW) 6GB 5 Hari  ==> 12500
+24878 ==>  (NEW) 8GB 5 Hari  ==> 13000
+24879 ==>  (NEW) 8GB 5 Hari  ==> 13000
+24946 ==>  (NEW) 8GB 5 Hari  ==> 13000
+24947 ==>  (NEW) 8GB 5 Hari  ==> 13000
+25213 ==>  (NEW) 6.5GB 5 Hari  ==> 13000
+22639 ==>  (Diskon) 4GB 13rb  ==> 13000
+23602 ==>  (NEW) 6GB 5 Hari  ==> 13000
+23607 ==>  (NEW) 6GB 5 Hari  ==> 13000
+24053 ==>  (NEW) 6.5GB 5 Hari  ==> 13000
+24054 ==>  (NEW) 6.5GB 5 Hari  ==> 13000
+24159 ==>  (NEW) 6GB 5 Hari  ==> 13000
+24185 ==>  (NEW) 6.5GB 5 Hari  ==> 13000
+25207 ==>  (NEW) 6GB 3 Hari  ==> 14000
+23833 ==>  (NEW) 6GB 5 Hari  ==> 14000
+23834 ==>  (NEW) 6GB 5 Hari  ==> 14000
+23835 ==>  (NEW) 6GB 5 Hari  ==> 14000
+23938 ==>  (NEW) 6GB 3 Hari  ==> 14000
+24405 ==>  (NEW) 6GB 7 Hari  ==> 14000
+24564 ==>  (NEW) 5GB 10 Hari  ==> 14000
+24883 ==>  (NEW) 5GB 30 Hari  ==> 15000
+25150 ==>  (NEW) 6GB 14 Hari  ==> 15000
+25151 ==>  (NEW) 6GB 10 Hari  ==> 15000
+25172 ==>  (NEW) 6GB 14 Hari  ==> 15000
+25243 ==>  (NEW) 10GB 7 Hari  ==> 15000
+25244 ==>  (NEW) 10GB 7 Hari  ==> 15000
+25245 ==>  (NEW) 10GB 30 Hari  ==> 15000
+25246 ==>  (NEW) 10GB 7 Hari  ==> 15000
+25265 ==>  (NEW) 10GB 30 Hari  ==> 15000
+22615 ==>  Unlimited Games + 12 Diamond ML  ==> 15000
+22848 ==>  Baru! 10GB 7hr 15rb  ==> 15000
+22851 ==>  Baru 10GB 7hr 15rb  ==> 15000
+23961 ==>  (NEW) 7GB 5 Hari  ==> 15000
+24437 ==>  (NEW) 7GB 7 Hari  ==> 15000
+25305 ==>  (NEW) 2GB 30 Hari  ==> 15000
+25334 ==>  Happy 7GB 3 Hari  ==> 15000
+25350 ==>  (NEW) 5GB 30 Hari  ==> 15000
+25516 ==>  (NEW) 9GB 3 Hari  ==> 15000
+25517 ==>  (NEW) 9GB 3 Hari  ==> 15000
+25547 ==>  (NEW) 5GB 30 Hari  ==> 15000
+22640 ==>  (Diskon) 6GB 16rb  ==> 16000
+24783 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24784 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24785 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24786 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24788 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24789 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24793 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24794 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24795 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24796 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24798 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24799 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24823 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24824 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24825 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24826 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24828 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24829 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24840 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24842 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24844 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24848 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24861 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+24862 ==>  Hot Sale 10GB 5 Hari  ==> 18000
+25177 ==>  (NEW) 8GB 30 Hari  ==> 18000
+22855 ==>  Baru! 5GB 30hr 18rb  ==> 18000
+22858 ==>  Baru! 5GB 15hr 18rb  ==> 18000
+23964 ==>  (NEW) 9GB 5 Hari  ==> 18000
+23966 ==>  (NEW) 9GB 5 Hari  ==> 18000
+23982 ==>  (NEW) 10GB 30 Hari  ==> 18000
+24404 ==>  (NEW) 6GB 14 Hari  ==> 18000
+24439 ==>  (NEW) 7GB 30 Hari  ==> 18000
+24568 ==>  (NEW) 8GB 30 Hari  ==> 18000
+24623 ==>  (NEW) 6GB 14 Hari  ==> 18000
+23604 ==>  (NEW) 8GB 5 Hari  ==> 19000
+23606 ==>  (NEW) 6GB 5 Hari  ==> 19000
+23657 ==>  (NEW) 8GB 5 Hari  ==> 19000
+23663 ==>  (NEW) 8GB 30 Hari  ==> 19000
+23830 ==>  (NEW) 8GB 5 Hari  ==> 19000
+23831 ==>  (NEW) 8GB 5 Hari  ==> 19000
+23832 ==>  (NEW) 8GB 5 Hari  ==> 19000
+23837 ==>  (NEW) 9GB 7 Hari  ==> 19000
+23841 ==>  (NEW) 7GB 30 Hari  ==> 19000
+23947 ==>  (NEW) 9GB 5 Hari  ==> 19000
+23948 ==>  (NEW) 9GB 5 Hari  ==> 19000
+23949 ==>  (NEW) 9GB 5 Hari  ==> 19000
+25323 ==>  (NEW) 8GB 30 Hari  ==> 19000
+24908 ==>  (NEW) 10GB 5 Hari  ==> 20000
+24912 ==>  (NEW) 10GB 5 Hari  ==> 20000
+24913 ==>  (NEW) 10GB 5 Hari  ==> 20000
+24949 ==>  (NEW) 10GB 5 Hari  ==> 20000
+24951 ==>  (NEW) 7GB 30 Hari  ==> 20000
+25152 ==>  (NEW) 8GB 14 Hari  ==> 20000
+25153 ==>  (NEW) 7GB 30 Hari  ==> 20000
+25173 ==>  (NEW) 9GB 10 Hari  ==> 20000
+25257 ==>  (NEW) 20GB 14 Hari  ==> 20000
+25260 ==>  (NEW) 20GB 14 Hari  ==> 20000
+25272 ==>  Test 6GB 20rb  ==> 20000
+22614 ==>  VIU 30 Hari  ==> 20000
+22775 ==>  VIU 31 Hari  ==> 20000
+23325 ==>  20GB 14 Hari  ==> 20000
+24058 ==>  (NEW) 10GB 5 Hari  ==> 20000
+24059 ==>  (NEW) 10GB 5 Hari  ==> 20000
+24164 ==>  9GB 7 Hari  ==> 20000
+24438 ==>  (NEW) 7GB 14 Hari  ==> 20000
+24624 ==>  (NEW) 9GB 10 Hari  ==> 20000
+25293 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25335 ==>  Happy 8GB 7 Hari  ==> 20000
+25376 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25377 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25378 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25380 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25389 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25390 ==>  (NEW) 10GB 5 Hari  ==> 20000
+25419 ==>  (NEW) 10GB 7 Hari  ==> 20000
+25420 ==>  (NEW) 10GB 10 Hari  ==> 20000
+25421 ==>  (NEW) 7GB 30 Hari  ==> 20000
+25459 ==>  (NEW) 15GB 30 Hari  ==> 20000
+25462 ==>  (NEW) 12GB 14 Hari  ==> 20000
+25463 ==>  (NEW) 12GB 14 Hari  ==> 20000
+24787 ==>  Hot Sale 15GB 5 Hari  ==> 24000
+24797 ==>  Hot Sale 15GB 5 Hari  ==> 24000
+24827 ==>  Hot Sale 15GB 5 Hari  ==> 24000
+24846 ==>  Hot Sale 15GB 5 Hari  ==> 24000
+23623 ==>  (NEW) 10GB 7 Hari  ==> 24000
+23838 ==>  (NEW) 10GB 7 Hari  ==> 24000
+23839 ==>  (NEW) 10GB 7 Hari  ==> 24000
+23840 ==>  (NEW) 10GB 7 Hari  ==> 24000
+24565 ==>  (NEW) 9GB 10 Hari  ==> 24000
+24790 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24800 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24803 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24808 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24818 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24831 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24834 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24836 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24850 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24859 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24863 ==>  Hot Sale 13GB 7 Hari  ==> 25000
+24884 ==>  (NEW) 10GB 30 Hari  ==> 25000
+24955 ==>  (NEW) 10GB 30 Hari  ==> 25000
+25154 ==>  (NEW) 9GB 30 Hari  ==> 25000
+25157 ==>  (NEW) 10GB 30 Hari  ==> 25000
+25182 ==>  (NEW) 12GB 30 Hari  ==> 25000
+25254 ==>  (NEW) 25GB 20 Hari  ==> 25000
+25255 ==>  (NEW) 25GB 14 Hari  ==> 25000
+25262 ==>  (NEW) 20GB 14 Hari  ==> 25000
+25264 ==>  (NEW) 25GB 20 Hari  ==> 25000
+22635 ==>  25GB 25rb (Diskon).  ==> 25000
+22648 ==>  25GB 25rb (Diskon)  ==> 25000
+23103 ==>  8GB + 2GB + VIU Premium  ==> 25000
+23160 ==>  25GB 24 Jam 20 Hari  ==> 25000
+24163 ==>  25GB 20 Hari  ==> 25000
+24406 ==>  (NEW) 10GB 10 Hari  ==> 25000
+25273 ==>  (NEW) 10GB 30 Hari  ==> 25000
+25274 ==>  (NEW.) 10GB 30 Hari  ==> 25000
+25282 ==>  (NEW.) 12GB 30 Hari  ==> 25000
+25283 ==>  (NEW!) 10GB 30 Hari  ==> 25000
+25351 ==>  (NEW) 10GB 30 Hari  ==> 25000
+25369 ==>  (NEW) 10GB 30 Hari  ==> 25000
+25464 ==>  (NEW) 12GB 14 Hari  ==> 25000
+25548 ==>  (NEW) 10GB 30 Hari  ==> 25000
+22856 ==>  Baru! 9GB 30hr 28rb  ==> 28000
+22859 ==>  Baru! 9GB 15hr 28rb  ==> 28000
+24791 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24792 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24801 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24802 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24804 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24805 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24809 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24813 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24814 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24815 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24819 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24830 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24832 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24833 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24837 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24838 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24843 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24845 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24851 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24852 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24854 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+24858 ==>  Hot Sale 19GB 7 Hari  ==> 29000
+25267 ==>  (NEW) 25GB 30 Hari  ==> 29000
+23164 ==>  25GB 24 Jam 30 Hari  ==> 29000
+23624 ==>  (NEW) 10GB 7 Hari  ==> 29000
+23842 ==>  (NEW) 12GB 30 Hari  ==> 29000
+24016 ==>  (NEW) 12GB 10 Hari  ==> 29000
+24056 ==>  (NEW) 13GB 10 Hari  ==> 29000
+24057 ==>  (NEW) 13GB 10 Hari  ==> 29000
+24160 ==>  (NEW) 13GB 30 Hari  ==> 29000
+24415 ==>  (NEW) 13GB 30 Hari  ==> 29000
+24440 ==>  (NEW) 12GB 30 Hari  ==> 29000
+24448 ==>  (NEW) 12GB 30 Hari  ==> 29000
+24569 ==>  (NEW) 14GB 30 Hari  ==> 29000
+24585 ==>  (NEW) 15GB 30 Hari  ==> 29000
+24595 ==>  (NEW) 15GB 30 Hari  ==> 29000
+24610 ==>  (NEW) 18GB 30 Hari  ==> 29000
+24632 ==>  (NEW) 12GB 30 Hari  ==> 29000
+25314 ==>  (NEW!) 12GB 30 Hari  ==> 29000
+25324 ==>  (NEW) 13GB 30 Hari  ==> 29000
+24909 ==>  (NEW) 19GB 7 Hari  ==> 30000
+24910 ==>  (NEW) 19GB 7 Hari  ==> 30000
+24953 ==>  (NEW) 12GB 30 Hari  ==> 30000
+25174 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25175 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25176 ==>  (NEW) 19GB 7 Hari  ==> 30000
+24375 ==>  (NEW) 12GB 30 Hari  ==> 30000
+24407 ==>  (NEW) 12GB 10 Hari  ==> 30000
+24408 ==>  (NEW) 14GB 30 Hari  ==> 30000
+24441 ==>  (NEW) 14GB 30 Hari  ==> 30000
+24570 ==>  (NEW) 15GB 30 Hari  ==> 30000
+24586 ==>  (NEW) 18GB 30 Hari  ==> 30000
+24625 ==>  (NEW) 12GB 30 Hari  ==> 30000
+25275 ==>  (NEW) 12GB 30 Hari  ==> 30000
+25284 ==>  NEW! 12GB 30 Hari  ==> 30000
+25294 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25307 ==>  (NEW) 5GB 30 Hari  ==> 30000
+25308 ==>  (NEW) 5GB 30 Hari  ==> 30000
+25315 ==>  (NEW) 14GB 30 Hari  ==> 30000
+25325 ==>  (NEW.) 14GB 30 Hari  ==> 30000
+25336 ==>  Happy 11GB 30 Hari  ==> 30000
+25391 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25393 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25394 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25396 ==>  (NEW) 19GB 7 Hari  ==> 30000
+25402 ==>  (NEW) 12GB 30 Hari  ==> 30000
+25424 ==>  (NEW) 12GB 30 Hari  ==> 30000
+25460 ==>  (NEW) 25GB 30 Hari  ==> 30000
+25461 ==>  (NEW) 25GB 30 Hari  ==> 30000
+25465 ==>  (NEW) 25GB 30 Hari  ==> 30000
+25467 ==>  (NEW) 20GB 30 Hari  ==> 30000
+24416 ==>  (NEW) 16GB 30 Hari  ==> 34000
+24449 ==>  (NEW) 15GB 30 Hari  ==> 34000
+24597 ==>  (NEW) 18GB 30 Hari  ==> 34000
+24633 ==>  (NEW) 15GB 30 Hari  ==> 34000
+24806 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24807 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24810 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24811 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24812 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24816 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24817 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24820 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24821 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24822 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24835 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24839 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24841 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24847 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24849 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24853 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24855 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24856 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24857 ==>  Hot Sale 25GB 10 Hari  ==> 35000
+24956 ==>  (NEW) 16GB 30 Hari  ==> 35000
+25155 ==>  (NEW) 12GB 30 Hari  ==> 35000
+22849 ==>  Baru! 25GB 20hr 35rb  ==> 35000
+24611 ==>  (NEW) 20GB 30 Hari  ==> 35000
+25352 ==>  (NEW) 16GB 30 Hari  ==> 35000
+25423 ==>  (NEW) 14GB 30 Hari  ==> 35000
+25518 ==>  (NEW) 25GB 10 Hari  ==> 35000
+25523 ==>  (NEW) 15GB 30 Hari  ==> 35000
+23843 ==>  (NEW) 18GB 30 Hari  ==> 39000
+23974 ==>  (NEW) 20GB 30 Hari  ==> 39000
+24417 ==>  (NEW) 20GB 30 Hari  ==> 39000
+24425 ==>  (NEW) 20GB 30 Hari  ==> 39000
+24450 ==>  (NEW) 20GB 30 Hari  ==> 39000
+24612 ==>  (NEW) 23GB 30 Hari  ==> 39000
+24641 ==>  (NEW) 20GB 30 Hari  ==> 39000
+24870 ==>  (NEW) 18GB 30 Hari  ==> 40000
+22852 ==>  Baru! 27GB 20hr 40rb  ==> 40000
+24409 ==>  (NEW) 20GB 30 Hari  ==> 40000
+24442 ==>  (NEW) 22GB 30 Hari  ==> 40000
+24571 ==>  (NEW) 20GB 30 Hari  ==> 40000
+24587 ==>  (NEW) 20GB 30 Hari  ==> 40000
+24626 ==>  (NEW) 12GB 30 Hari  ==> 40000
+25316 ==>  (NEW) 22GB 30 Hari  ==> 40000
+25326 ==>  NEW. 20GB 30 Hari  ==> 40000
+25405 ==>  (NEW) 17GB 30 Hari  ==> 40000
+24418 ==>  (NEW) 23GB 30 Hari  ==> 44000
+24426 ==>  (NEW) 25GB 30 Hari  ==> 44000
+24634 ==>  (NEW) 16GB 30 Hari  ==> 44000
+24642 ==>  (NEW) 25GB 30 Hari  ==> 44000
+25337 ==>  Happy 17GB 30 Hari  ==> 45000
+25158 ==>  (NEW) 25GB 30 Hari  ==> 49000
+25160 ==>  (NEW) 28GB 30 Hari  ==> 49000
+24389 ==>  (NEW) 28GB 30 Hari  ==> 49000
+24390 ==>  (NEW) 28GB 30 Hari  ==> 49000
+24424 ==>  (NEW) 25GB 30 Hari  ==> 49000
+24572 ==>  (NEW) 30GB 30 Hari  ==> 49000
+24574 ==>  (NEW) 30GB 30 Hari  ==> 49000
+24640 ==>  (NEW) 26GB 30 Hari  ==> 49000
+25276 ==>  (NEW) 25GB 30 Hari  ==> 49000
+25285 ==>  (NEW.) 25GB 30 Hari  ==> 49000
+25371 ==>  (NEW) 25GB 30 Hari  ==> 49000
+25373 ==>  (NEW) 25GB 30 Hari  ==> 49000
+24905 ==>  (NEW) 12GB 30 Hari  ==> 50000
+24906 ==>  (NEW) 12GB 30 Hari  ==> 50000
+25156 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25178 ==>  (NEW) 20GB 30 Hari  ==> 50000
+25179 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25180 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25181 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25253 ==>  (NEW) 45GB 30 Hari  ==> 50000
+25256 ==>  (NEW) 45GB 30 Hari  ==> 50000
+25266 ==>  (NEW) 35GB 30 Hari  ==> 50000
+25268 ==>  (NEW) 30GB 30 Hari  ==> 50000
+25269 ==>  (NEW) 45GB 30 Hari  ==> 50000
+23104 ==>  16GB + 3GB + VIU Premium  ==> 50000
+24345 ==>  (NEW) 20GB 30 Hari  ==> 50000
+24391 ==>  (NEW) 28GB 30 Hari  ==> 50000
+24410 ==>  (NEW) 25GB 30 Hari  ==> 50000
+24427 ==>  (NEW) 28GB 30 Hari  ==> 50000
+24443 ==>  (NEW) 28GB 30 Hari  ==> 50000
+24451 ==>  (NEW) 28GB 30 Hari  ==> 50000
+24457 ==>  (NEW) 30GB 30 Hari  ==> 50000
+24458 ==>  (NEW) 30GB 30 Hari  ==> 50000
+24459 ==>  (NEW) 30GB 30 Hari  ==> 50000
+24508 ==>  12GB 30 Hari (Promo)  ==> 50000
+24573 ==>  (NEW) 20GB 30 Hari  ==> 50000
+24575 ==>  (NEW) 30GB 30 Hari  ==> 50000
+24591 ==>  (NEW) 35GB 30 Hari  ==> 50000
+24593 ==>  (NEW) 25GB 30 Hari  ==> 50000
+24594 ==>  (NEW) 33GB 30 Hari  ==> 50000
+24596 ==>  (NEW) 33GB 30 Hari  ==> 50000
+24599 ==>  (NEW) 25GB 30 Hari  ==> 50000
+24613 ==>  (NEW) 28GB 30 Hari  ==> 50000
+24627 ==>  (NEW) 12GB 30 Hari  ==> 50000
+24643 ==>  (NEW) 25GB 30 Hari  ==> 50000
+25277 ==>  (NEW) 20GB 30 Hari  ==> 50000
+25286 ==>  (NEW.) 20GB 30 Hari  ==> 50000
+25295 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25309 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25310 ==>  (NEW) 10GB 30 Hari  ==> 50000
+25313 ==>  (NEW) 30GB 30 Hari  ==> 50000
+25317 ==>  (NEW) 28GB 30 Hari  ==> 50000
+25327 ==>  NEW! 25GB 30 Hari  ==> 50000
+25353 ==>  (NEW) 20GB 30 Hari  ==> 50000
+25386 ==>  (NEW) 45GB 30 Hari  ==> 50000
+25403 ==>  (NEW) 20GB 30 Hari  ==> 50000
+25407 ==>  (NEW) 18GB 30 Hari  ==> 50000
+25408 ==>  (NEW) 14GB 30 Hari  ==> 50000
+25410 ==>  (NEW) 14GB 30 Hari  ==> 50000
+25411 ==>  (NEW) 14GB 14 Hari  ==> 50000
+25412 ==>  (NEW) 14GB 14 Hari  ==> 50000
+25422 ==>  (NEW) 22GB 30 Hari  ==> 50000
+25426 ==>  (NEW) 25GB 30 Hari  ==> 50000
+25427 ==>  (NEW) 25GB 30 Hari  ==> 50000
+25434 ==>  (NEW) 14GB 30 Hari  ==> 50000
+25466 ==>  (NEW) 45GB 30 Hari  ==> 50000
+25468 ==>  (NEW) 40GB 30 Hari  ==> 50000
+25469 ==>  (NEW) 55GB 30 Hari  ==> 50000
+25471 ==>  (NEW) 40GB 30 Hari  ==> 50000
+25519 ==>  (NEW) 33GB 10 Hari  ==> 50000
+25520 ==>  (NEW) 25GB 30 Hari  ==> 50000
+25524 ==>  (NEW) 25GB 30 Hari  ==> 50000
+25527 ==>  (NEW) 25GB 30 Hari  ==> 50000
+25528 ==>  (NEW) 25GB 30 Hari  ==> 50000
+24957 ==>  (NEW) 32GB 30 Hari  ==> 55000
+25183 ==>  (NEW) 30GB 30 Hari  ==> 55000
+24419 ==>  (NEW) 28GB 30 Hari  ==> 55000
+24601 ==>  (NEW) 23GB 30 Hari  ==> 55000
+24635 ==>  (NEW) 25GB 30 Hari  ==> 55000
+25340 ==>  AON 20GB 55ribu  ==> 55000
+25354 ==>  (NEW) 24GB 30 Hari  ==> 55000
+25435 ==>  (NEW) 18GB 30 Hari  ==> 55000
+24452 ==>  (NEW) 35GB 30 Hari  ==> 59000
+24460 ==>  (NEW) 38GB 30 Hari  ==> 59000
+24577 ==>  (NEW) 33GB 30 Hari  ==> 59000
+24598 ==>  (NEW) 40GB 30 Hari  ==> 59000
+24614 ==>  (NEW) 35GB 30 Hari  ==> 59000
+24899 ==>  (NEW) 38GB 30 Hari  ==> 60000
+24902 ==>  (NEW) 38GB 30 Hari  ==> 60000
+25159 ==>  (NEW) 20GB 30 Hari  ==> 60000
+25187 ==>  (NEW) 40GB 30 Hari  ==> 60000
+25258 ==>  (NEW) 45GB 30 Hari  ==> 60000
+24411 ==>  (NEW) 30GB 30 Hari  ==> 60000
+24444 ==>  (NEW) 35GB 30 Hari  ==> 60000
+24576 ==>  (NEW) 28GB 30 Hari  ==> 60000
+24592 ==>  (NEW) 28GB 30 Hari  ==> 60000
+24628 ==>  (NEW) 20GB 30 Hari  ==> 60000
+25278 ==>  (NEW) 38GB 30 Hari  ==> 60000
+25287 ==>  NEW! 20GB 30 Hari  ==> 60000
+25318 ==>  (NEW) 35GB 30 Hari  ==> 60000
+25328 ==>  (NEW.) 30GB 30 Hari  ==> 60000
+25356 ==>  (NEW) 28GB 30 Hari  ==> 60000
+25525 ==>  (NEW) 35GB 30 Hari  ==> 60000
+25529 ==>  (NEW) 38GB 30 Hari  ==> 60000
+24603 ==>  (NEW) 30GB 30 Hari  ==> 64000
+25436 ==>  (NEW) 30GB 30 Hari  ==> 64000
+24885 ==>  30GB 24 Jam  ==> 65000
+24900 ==>  (NEW) 45GB 30 Hari  ==> 65000
+24903 ==>  (NEW) 20GB 30 Hari  ==> 65000
+25161 ==>  (NEW) 40GB 30 Hari  ==> 65000
+25162 ==>  (NEW) 40GB 30 Hari  ==> 65000
+25190 ==>  (NEW) 50GB 30 Hari  ==> 65000
+25191 ==>  (NEW) 50GB 30 Hari  ==> 65000
+25263 ==>  (NEW) 45GB 30 Hari  ==> 65000
+22707 ==>  52GB 65rb (Lebih Murah)  ==> 65000
+24428 ==>  (NEW) 38GB 30 Hari  ==> 65000
+24644 ==>  (NEW) 35GB 30 Hari  ==> 65000
+24420 ==>  (NEW) 35GB 30 Hari  ==> 69000
+24453 ==>  (NEW) 45GB 30 Hari  ==> 69000
+24615 ==>  (NEW) 38GB 30 Hari  ==> 69000
+24636 ==>  (NEW) 26GB 30 Hari  ==> 69000
+25338 ==>  Happy 40GB 30 Hari  ==> 70000
+25374 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25379 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25381 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25387 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25388 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25392 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25425 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25429 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25430 ==>  (NEW) 40GB 30 Hari  ==> 70000
+25530 ==>  (NEW) 43GB 30 Hari  ==> 70000
+24429 ==>  (NEW) 40GB 30 Hari  ==> 74000
+24461 ==>  (NEW) 50GB 30 Hari  ==> 74000
+24462 ==>  (NEW) 50GB 30 Hari  ==> 74000
+24578 ==>  (NEW) 45GB 30 Hari  ==> 74000
+24600 ==>  (NEW) 50GB 30 Hari  ==> 74000
+24602 ==>  (NEW) 50GB 30 Hari  ==> 74000
+24645 ==>  (NEW) 33GB 30 Hari  ==> 74000
+25247 ==>  (NEW) 75GB 30 Hari  ==> 75000
+25470 ==>  (NEW) 70GB 30 Hari  ==> 75000
+25472 ==>  (NEW) 70GB 30 Hari  ==> 75000
+25473 ==>  (NEW) 75GB 30 Hari  ==> 75000
+25475 ==>  (NEW) 70GB 30 Hari  ==> 75000
+25531 ==>  (NEW) 55GB 30 Hari  ==> 75000
+25532 ==>  (NEW) 55GB 30 Hari  ==> 75000
+22706 ==>  AON UL 30GB 77rb (Lebih Murah)  ==> 77000
+24579 ==>  (NEW) 45GB 30 Hari  ==> 79000
+25261 ==>  (NEW) 75GB 30 Hari  ==> 80000
+24705 ==>  (NEW) 65GB 30 Hari  ==> 85000
+24715 ==>  (NEW) 65GB 30 Hari  ==> 85000
+24722 ==>  (NEW) 65GB 30 Hari  ==> 85000
+24901 ==>  (NEW) 50GB 30 Hari  ==> 85000
+25184 ==>  (NEW) 50GB 30 Hari  ==> 85000
+25189 ==>  (NEW) 65GB 30 Hari  ==> 85000
+23167 ==>  120GB 30 Hari  ==> 85000
+24412 ==>  (NEW) 45GB 30 Hari  ==> 85000
+24445 ==>  (NEW) 55GB 30 Hari  ==> 85000
+24470 ==>  (NEW) 65GB 30 Hari  ==> 85000
+24478 ==>  (NEW) 65GB 30 Hari  ==> 85000
+24581 ==>  (NEW) 45GB 30 Hari  ==> 85000
+24590 ==>  (NEW) 50GB 30 Hari  ==> 85000
+24629 ==>  (NEW) 40GB 30 Hari  ==> 85000
+25279 ==>  (NEW) 50GB 30 Hari  ==> 85000
+25288 ==>  NEW! 50GB 30 Hari  ==> 85000
+25319 ==>  (NEW) 55GB 30 Hari  ==> 85000
+25329 ==>  (NEW) 45GB 30 Hari  ==> 85000
+25358 ==>  (NEW) 50GB 30 Hari  ==> 85000
+25395 ==>  (NEW) 55GB 30 Hari  ==> 85000
+24421 ==>  (NEW) 50GB 30 Hari  ==> 89000
+24706 ==>  (NEW) 66GB 30 Hari  ==> 90000
+24716 ==>  (NEW) 66GB 30 Hari  ==> 90000
+24719 ==>  (NEW) 66GB 30 Hari  ==> 90000
+24896 ==>  (NEW) 66GB 30 Hari  ==> 90000
+24471 ==>  (NEW) 66GB 30 Hari  ==> 90000
+24479 ==>  (NEW) 66GB 30 Hari  ==> 90000
+25397 ==>  (NEW) 66GB 30 Hari  ==> 90000
+25399 ==>  (NEW) 66GB 30 Hari  ==> 90000
+25474 ==>  (NEW) 90GB 30 Hari  ==> 90000
+25476 ==>  (NEW) 90GB 30 Hari  ==> 90000
+24454 ==>  (NEW) 66GB 30 Hari  ==> 95000
+24605 ==>  (NEW) 55GB 30 Hari  ==> 95000
+24616 ==>  (NEW) 66GB 30 Hari  ==> 95000
+24637 ==>  (NEW) 45GB 30 Hari  ==> 95000
+25188 ==>  (NEW) 70GB 30 Hari  ==> 99000
+25192 ==>  (NEW) 75GB 30 Hari  ==> 99000
+25193 ==>  (NEW) 75GB 30 Hari  ==> 99000
+25194 ==>  (NEW) 75GB 30 Hari  ==> 99000
+25248 ==>  (NEW) 90GB 30 Hari  ==> 99000
+25249 ==>  (NEW) 90GB 30 Hari  ==> 99000
+25250 ==>  (NEW) 90GB 30 Hari  ==> 99000
+25251 ==>  (NEW) 90GB 30 Hari  ==> 99000
+25252 ==>  (NEW) 90GB 30 Hari  ==> 99000
+24413 ==>  (NEW) 63GB 30 Hari  ==> 99000
+25330 ==>  (NEW) 63GB 30 Hari  ==> 99000
+25341 ==>  AON 50GB 99ribu  ==> 99000
+25428 ==>  (NEW) 66GB 30 Hari  ==> 99000
+24904 ==>  (NEW) 50GB 30 Hari  ==> 100000
+25185 ==>  (NEW) 50GB 30 Hari  ==> 100000
+25186 ==>  (NEW) 50GB 30 Hari  ==> 100000
+23206 ==>  45GB + VIU (Hemat)  ==> 100000
+24002 ==>  (NEW) 70GB 30 Hari  ==> 100000
+24414 ==>  (NEW) 63GB 30 Hari  ==> 100000
+24430 ==>  (NEW) 70GB 30 Hari  ==> 100000
+24446 ==>  (NEW) 68GB 30 Hari  ==> 100000
+24447 ==>  (NEW) 63GB 30 Hari  ==> 100000
+24463 ==>  (NEW) 71GB 30 Hari  ==> 100000
+24580 ==>  (NEW) 65GB 30 Hari  ==> 100000
+24582 ==>  (NEW) 65GB 30 Hari  ==> 100000
+24583 ==>  (NEW) 65GB 30 Hari  ==> 100000
+24588 ==>  (NEW) 68GB 30 Hari  ==> 100000
+24604 ==>  (NEW) 76GB 30 Hari  ==> 100000
+24630 ==>  (NEW) 50GB 30 Hari  ==> 100000
+24631 ==>  (NEW) 50GB 30 Hari  ==> 100000
+24646 ==>  (NEW) 55GB 30 Hari  ==> 100000
+24886 ==>  65GB 24 Jam  ==> 100000
+24889 ==>  65GB 24 Jam.  ==> 100000
+25280 ==>  (NEW.) 50GB 30 Hari  ==> 100000
+25289 ==>  NEW. 50GB 30 Hari  ==> 100000
+25321 ==>  (NEW) 68GB 30 Hari  ==> 100000
+25361 ==>  (NEW) 55GB 30 Hari  ==> 100000
+25438 ==>  (NEW) 55GB 30 Hari  ==> 100000
+22705 ==>  117GB 105rb (Lebih Murah)  ==> 105000
+24422 ==>  (NEW) 70GB 30 Hari  ==> 105000
+24607 ==>  (NEW) 68GB 30 Hari  ==> 105000
+24617 ==>  (NEW) 76GB 30 Hari  ==> 105000
+24618 ==>  (NEW) 75GB 30 Hari  ==> 105000
+24638 ==>  (NEW) 55GB 30 Hari  ==> 105000
+24708 ==>  (NEW) 83GB 30 Hari  ==> 110000
+24717 ==>  (NEW) 83GB 30 Hari  ==> 110000
+24720 ==>  (NEW) 85GB 30 Hari  ==> 110000
+24366 ==>  (NEW) 68GB 30 Hari  ==> 110000
+24396 ==>  (NEW) 70GB 30 Hari  ==> 110000
+24431 ==>  (NEW) 75GB 30 Hari  ==> 110000
+24455 ==>  (NEW) 76GB 30 Hari  ==> 110000
+24472 ==>  (NEW) 83GB 30 Hari  ==> 110000
+24480 ==>  (NEW) 83GB 30 Hari  ==> 110000
+24639 ==>  (NEW) 66GB 30 Hari  ==> 110000
+24584 ==>  (NEW) 75GB 30 Hari  ==> 115000
+25533 ==>  (NEW) 86GB 30 Hari  ==> 115000
+22606 ==>  Promo 117GB + 5GB.  ==> 117000
+23204 ==>  120GB + VIU (Hemat)  ==> 120000
+24399 ==>  (NEW) 75GB 30 Hari  ==> 120000
+24423 ==>  (NEW) 76GB 30 Hari  ==> 120000
+24456 ==>  (NEW) 76GB 30 Hari  ==> 120000
+24464 ==>  (NEW) 86GB 30 Hari  ==> 120000
+24606 ==>  (NEW) 86GB 30 Hari  ==> 120000
+24609 ==>  (NEW) 75GB 30 Hari  ==> 120000
+24647 ==>  (NEW) 70GB 30 Hari  ==> 120000
+24648 ==>  (NEW) 76GB 30 Hari  ==> 120000
+25281 ==>  (NEW) 75GB 30 Hari  ==> 120000
+25290 ==>  (NEW.) 75GB 30 Hari  ==> 120000
+25322 ==>  (NEW) 76GB 30 Hari  ==> 120000
+25331 ==>  (NEW.) 76GB 30 Hari  ==> 120000
+25439 ==>  (NEW) 100GB 30 Hari  ==> 120000
+25521 ==>  (NEW) 86GB 30 Hari  ==> 120000
+23205 ==>  66GB + VIU (Hemat)  ==> 125000
+24432 ==>  (NEW) 85GB 30 Hari  ==> 125000
+25526 ==>  (NEW) 95GB 30 Hari  ==> 125000
+24465 ==>  (NEW) 91GB 30 Hari  ==> 130000
+24887 ==>  110GB 24 Jam  ==> 130000
+25291 ==>  110GB 24 Jam.  ==> 130000
+25534 ==>  (NEW) 110GB 30 Hari  ==> 130000
+24709 ==>  (NEW) 100GB 30 Hari  ==> 135000
+24718 ==>  (NEW) 100GB 30 Hari  ==> 135000
+24721 ==>  (NEW) 100GB 30 Hari  ==> 135000
+25195 ==>  (NEW) 100GB 30 Hari  ==> 135000
+25196 ==>  (NEW) 100GB 30 Hari  ==> 135000
+25197 ==>  (NEW) 100GB 30 Hari  ==> 135000
+22605 ==>  150GB 135rb (Diskon).  ==> 135000
+22704 ==>  150GB 135rb (Lebih Murah)  ==> 135000
+24473 ==>  (NEW) 100GB 30 Hari  ==> 135000
+24481 ==>  (NEW) 100GB 30 Hari  ==> 135000
+25339 ==>  Happy 120GB 30 Hari  ==> 135000
+25385 ==>  (NEW) 120GB 30 Hari  ==> 135000
+25401 ==>  (NEW) 120GB 30 Hari  ==> 135000
+25404 ==>  (NEW) 120GB 30 Hari  ==> 135000
+25406 ==>  (NEW) 135GB 30 Hari  ==> 135000
+25431 ==>  (NEW) 120GB 30 Hari  ==> 135000
+25432 ==>  (NEW) 120GB 30 Hari  ==> 135000
+25433 ==>  (NEW) 120GB 30 Hari  ==> 135000
+24589 ==>  (NEW) 135GB 30 Hari  ==> 150000
+24608 ==>  (NEW) 135GB 30 Hari  ==> 150000
+25311 ==>  (NEW) 135GB 30 Hari  ==> 150000
+25312 ==>  (NEW) 135GB 30 Hari  ==> 150000
+25409 ==>  (NEW) 150GB 30 Hari  ==> 150000
